@@ -140,6 +140,4 @@ D:\ConverterMP3\
 - **Database:** File JSON (`history.json`)
 
 ---
-
-*Dibuat untuk penggunaan pribadi. Tidak untuk dipublikasikan ke internet.*
 #
